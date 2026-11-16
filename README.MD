@@ -1,4 +1,4 @@
-<img src="./imgs/logo/logo_ciqueus.png" alt="Logo CIQUEUS" style="border-radius: 30px;">
+<img src="./documentacao/imgs/logo/logo_ciqueus.png" alt="Logo CIQUEUS" style="border-radius: 30px;">
 
 # CIQUEUS API 
 
