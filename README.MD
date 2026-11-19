@@ -1,4 +1,6 @@
-<img src="./documentacao/imgs/logo/logo_ciqueus.png" alt="Logo CIQUEUS" style="border-radius: 30px;">
+<div align="center">
+  <img src="./documentacao/imgs/logo/logo_ciqueus.png" alt="Logo CIQUEUS" width="120" height="120" style="border-radius: 30px; object-fit: cover;">
+</div>
 
 # CIQUEUS API 
 
