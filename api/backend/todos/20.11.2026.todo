@@ -1,0 +1,13 @@
+## Todo List
+
+- [x] Fazer o extract_text.py
+    - [x] Verificação da corretude da função def extract_text_from_pdf(pdf_path)
+    - [x] Retornar a construção da extract_text_from_image(image_path)
+
+- [x] Fazer a validação do image_detect e pdf_detect
+    - [x] Verificar se entra em loop ou não
+
+- [x] Fazer a construção das tabelas do banco de dados
+    - [x] Ler o database.md
+    - [x] Construir a tabela resposta
+    - [x] Construir a tabela questao

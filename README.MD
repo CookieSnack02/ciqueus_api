@@ -14,11 +14,12 @@ Uma API de **questões de concurso/vestibular/provas** para ser implementada em 
     * PyMuPDF
     * OpenCV
     * Pydantic
+    * Pytesseract
 * JavaScript Vanilla
 * CSS3
 * HTML5
 
-* MakerPDF (Vik Paruchuri / Datalab)
+* MarkerPDF (Vik Paruchuri / Datalab)
 * DocLayout-YOLO 
 * PostgreSQL 
 
@@ -40,6 +41,13 @@ Uma API de **questões de concurso/vestibular/provas** para ser implementada em 
 --white: #ffffffff;
 ```
 
+## Como subir para produção? 
+
+Para subir essa aplicação para produção será necessário uma VPS por causa do OCR que torna-se pesado. 
+
+
 ## Referência Bibliográfica 
 
 * minhaprova.com.br 
+
+
